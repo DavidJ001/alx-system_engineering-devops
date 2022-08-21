@@ -1,6 +1,6 @@
 # 0. Simple web stack
+![image](https://user-images.githubusercontent.com/99566087/185810845-53b0e6bd-85af-45f9-ace1-190ace695a27.png)
 
-![image](https://user-images.githubusercontent.com/83606182/185593663-5b804aa9-5e35-4b9c-802f-bc16154951ed.png)
 
 
 # About infrastructure:
